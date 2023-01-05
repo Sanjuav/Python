@@ -1,0 +1,10 @@
+my_list=["apple","mango","cherry","banana"]
+a=len(my_list)
+print(a)
+print(my_list.count("apple"))
+my_list.append("grape")
+print(my_list)
+my_list.reverse()
+print(my_list)
+my_list.pop()
+print(my_list)

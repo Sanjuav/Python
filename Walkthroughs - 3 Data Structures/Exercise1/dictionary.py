@@ -1,0 +1,10 @@
+car = {"brand": "Ford","model": "Mustang","year": 1964}
+# using methods items()
+x=car.items()
+print(x)
+# using methods keys()
+y=car.keys()
+print(y)
+# using methods values()
+a=car.values()
+print(a)
