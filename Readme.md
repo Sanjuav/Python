@@ -62,9 +62,9 @@ git clone https://github.com/Sanjuav/Python
 
 ```
 
-- The new feature is then implemented onto the repository and tested.
+- The new implemented feature is then pushed onto the Feature branch on the local respository and tested.
 - Once the feature implemented is validated to be stable it is pushed on to the Feature branch of the GitHub web repository
-- This Feature branch is then merged with the main barnch by performing a pull request.
+- This Feature branch is then merged with the main branch by performing a pull request.
 
   ![image.png](https://github.com/Sanjuav/Python/blob/10218d75b797d11a4aef9d5ccfecf19857c7e9c9/Documentation/Featurebranch.jpg)
 
